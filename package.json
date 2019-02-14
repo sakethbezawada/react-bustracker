@@ -1,11 +1,12 @@
 {
-  "home": "https://kathisai.github.io/react-bustracker",
+  "home": "http://kathisai.github.io/react-bustracker",
   "name": "bustracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.5"
   },
   "scripts": {
