@@ -7,10 +7,8 @@ import {
 class App extends Component {
   render() {
     return (
-     
-
 <BrowserRouter
-basename="/">
+basename="react-bustracker">
 <div className="App">
         <p>Hello Bus Tracker</p>
       </div>
