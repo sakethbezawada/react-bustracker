@@ -1,13 +1,14 @@
 {
-  "main.css": "/static/css/main.e5eb2810.chunk.css",
-  "main.js": "/static/js/main.b5fedfcd.chunk.js",
-  "main.js.map": "/static/js/main.b5fedfcd.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.2f8df587.chunk.js": "/static/js/2.2f8df587.chunk.js",
-  "static/js/2.2f8df587.chunk.js.map": "/static/js/2.2f8df587.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.9eadadaec6b480ba2f08e17a1824846c.js": "/precache-manifest.9eadadaec6b480ba2f08e17a1824846c.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.e5eb2810.chunk.css.map": "/static/css/main.e5eb2810.chunk.css.map"
+  "main.css": "react-bustracker/static/css/main.aba1121e.chunk.css",
+  "main.js": "react-bustracker/static/js/main.bbc59507.chunk.js",
+  "main.js.map": "react-bustracker/static/js/main.bbc59507.chunk.js.map",
+  "runtime~main.js": "react-bustracker/static/js/runtime~main.fe245848.js",
+  "runtime~main.js.map": "react-bustracker/static/js/runtime~main.fe245848.js.map",
+  "static/js/2.d16a2668.chunk.js": "react-bustracker/static/js/2.d16a2668.chunk.js",
+  "static/js/2.d16a2668.chunk.js.map": "react-bustracker/static/js/2.d16a2668.chunk.js.map",
+  "index.html": "react-bustracker/index.html",
+  "precache-manifest.d0793c6e297036e8117c8ad5c6683997.js": "react-bustracker/precache-manifest.d0793c6e297036e8117c8ad5c6683997.js",
+  "service-worker.js": "react-bustracker/service-worker.js",
+  "static/css/main.aba1121e.chunk.css.map": "react-bustracker/static/css/main.aba1121e.chunk.css.map",
+  "static/media/logo.svg": "react-bustracker/static/media/logo.5d5d9eef.svg"
 }
