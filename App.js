@@ -32,7 +32,7 @@ class App extends Component {
   }
 
 }
-
+{/* Comment */}
 
 export default App;
 ReactDOM.render('App',document.getElementById('root'));
